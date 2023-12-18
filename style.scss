@@ -231,10 +231,10 @@ p {
       top: 0;
       width: 100%;
       height: 100%;
-      background-color: rgba(0, 0, 0, 0.8);
-      background-image: url("https://cdn.motherhood.com.my/assets/images/new_careplus/dotted.png");
-      background-size: 80px 80px;
-      opacity: 0.7;
+      background-color: rgba(0, 0, 0, 0.6);
+      // background-image: url("https://cdn.motherhood.com.my/assets/images/new_careplus/dotted.png");
+      // background-size: 80px 80px;
+      // opacity: 0.7;
     }
 
     .banner_bg {
@@ -287,8 +287,8 @@ p {
 
     &:hover {
       .video_bg {
-        filter: blur(2px);
-        transform: scale(1.01);
+        filter: blur(3px);
+        transform: scale(1.05);
       }
       .text {
         opacity: 1;
